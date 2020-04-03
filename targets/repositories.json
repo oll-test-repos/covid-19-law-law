@@ -5,7 +5,8 @@
               "https://github.com/oll-test-repos/covid-19-law-law-docs.git"
           ],
           "custom": {
-              "type": "docs"
+              "type": "docs",
+			  "allow-unauthenticated-commits": true
           }
       },
       "covid-19-law/law-xml": {
