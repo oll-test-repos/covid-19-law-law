@@ -1,0 +1,39 @@
+{
+  "repositories": {
+      "covid-19-law/law-docs": {
+          "urls": [
+              "https://github.com/oll-test-repos/covid-19-law-law-docs.git"
+          ],
+          "custom": {
+              "type": "docs"
+          }
+      },
+      "covid-19-law/law-xml": {
+          "urls": [
+              "https://github.com/oll-test-repos/covid-19-law-law-xml.git"
+          ],
+          "custom": {
+              "type": "xml",
+              "allow-unauthenticated-commits": true
+          }
+      },
+      "covid-19-law/law-html": {
+          "urls": [
+              "https://github.com/oll-test-repos/covid-19-law-law-html.git"
+          ],
+          "custom": {
+              "preview": "https://github.com/oll-test-repos/covid-19-law-law-html-preview.git",
+              "type": "html"
+          }
+      },
+      "covid-19-law/law-xml-codified": {
+          "urls": [
+              "https://github.com/oll-test-repos/covid-19-law-law-xml-codified.git"
+          ],
+          "custom": {
+              "preview": "https://github.com/oll-test-repos/covid-19-law-law-xml-codified-preview.git",
+              "type": "xml-codified"
+          }
+      }
+  }
+}
